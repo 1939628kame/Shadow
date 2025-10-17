@@ -93,7 +93,3 @@ a.root-servers.net. (198.41.0.4)
        |\___ arin.authdns.ripe.net [104.in-addr.arpa] (2a13:27c0:0030:0000:0000:0000:0000:0010) Not queried
         \___ z.arin.net [104.in-addr.arpa] (199.180.180.63) (cached)
         \___ z.arin.net [104.in-addr.arpa] (2001:0500:00f0:0000:0000:0000:0000:0063) Not queried
-
-Domain Queried : 18.38.243.104.in-addr.arpa
-
-ns1.afraid.org not found in nameserver list.  
